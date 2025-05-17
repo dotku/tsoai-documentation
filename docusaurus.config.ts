@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} TSOai, LLC. Built with Docusaurus.`,
+      copyright: `版权所有 © ${new Date().getFullYear()} 伊索智能科技有限公司`,
     },
     prism: {
       theme: prismThemes.github,
