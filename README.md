@@ -4,6 +4,14 @@ TSOai 文档库是 TSOai 的官方文档，它提供了 TSOai 的详细介绍、
 
 ## 商务消费者系列产品
 
+| 产品 | 类型 | 说明 |
+| --- | --- | --- |
+| NextChat | 大众 | |
+| OperatorNext | 大众 | |
+| Open WebUI | 专业 | |
+| ChatERP | 企业 | 小型企业 |
+| Bisheng | 企业 | 大型企业 |
+
 ### NextChat
 
 [NextChat](https://nextchat.operatornext.cn/) 是一个开源的项目，由 TSOai 维护，它提供了一个简单易用的操作界面让你可以快速上手，体验不同的 AI 模型。
